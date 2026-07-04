@@ -1,5 +1,6 @@
 import { useLanguage } from '../LanguageContext';
 
+
 export default function Projects() {
   const { t, language } = useLanguage();
 
